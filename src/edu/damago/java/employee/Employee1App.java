@@ -95,7 +95,9 @@ public class Employee1App {
 	static public void processDisplayCommand(final Employee[] employees) {
 		for (int i = 0; i < employees.length - 1; i++) {
 			System.out.print(employees[i].identity + ", ");
-			System.out.print(false);
+			System.out.print(employees[i].surname + ", ");
+			System.out.print(employees[i].forename + ", ");
+			System.out.print(employees[i].age);
 		}
 	}
 
