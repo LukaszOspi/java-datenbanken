@@ -1,0 +1,1 @@
+module edu.damago.java.demo {exports edu.damago.java.calc;exports edu.damago.java.struct;exports edu.damago.java.tool;}

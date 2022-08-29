@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Administrator\OneDrive - BAWI gGmbH\ALLE KURSE\Java und Datenbanken\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1022054908.index
+401176392.index
+3998726416.index
+4194556880.index
+2200339744.index
