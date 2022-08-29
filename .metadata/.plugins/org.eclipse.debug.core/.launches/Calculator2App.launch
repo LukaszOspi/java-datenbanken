@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/java-solution/src/edu/damago/java/calc/Calculator2App.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="edu.damago.java.calc.Calculator2App"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="edu.damago.java.solution"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="java-solution"/>
+</launchConfiguration>
